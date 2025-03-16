@@ -1,0 +1,28 @@
+# Environment files
+.
+
+# Results directory (if you want to exclude research outputs)
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Local configuration
+pyvenv.cfg
+
+# Screenshots
+Screenshot*.png

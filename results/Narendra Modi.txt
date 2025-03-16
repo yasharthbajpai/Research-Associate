@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2025-03-16 14:45:53
+
+topic='Narendra Modi' summary="Please see the raw output in results\\raw_Narendra Modi.txt. The AI generated a response but it couldn't be parsed as structured data." sources=['Web Search', 'Wikipedia'] tools_used=['search', 'wikipedia']
+

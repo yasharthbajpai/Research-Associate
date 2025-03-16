@@ -1,0 +1,10 @@
+python-dotenv==1.0.1
+langchain-community==0.3.19
+langchain-core==0.3.45
+openai
+langchain 
+wikipedia 
+langchain-openai
+langchain-anthropic
+pydantic
+duckduckgo-search
