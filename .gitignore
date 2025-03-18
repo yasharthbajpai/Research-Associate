@@ -1,7 +1,14 @@
 # Environment files
-.
+.env
+venv/
+env/
+.python-version
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Results directory (if you want to exclude research outputs)
+results/
 
 # IDE specific files
 .vscode/
